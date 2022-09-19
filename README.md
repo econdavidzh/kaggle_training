@@ -1,13 +1,13 @@
 # kaggle_training
 
-Intro:
+## Intro:
 1. Arithmetic and Variables: Make calculations, and define and modify variables.
 2. Functions: Organize your code and avoid redundancy.
 3. Data Types: Explore integers, floats, booleans, and strings.
 4. Conditions and Conditional Statements: Modify how functions run, depending on the input.
 5. Intro to Lists: Organize your data so you can work with it efficiently.
 
-Python:
+## Python:
 1. Hello, Python: A quick introduction to Python syntax, variable assignment, and numbers
 2. Functions and Getting Help: Calling functions and defining our own, and using Python's builtin documentation
 3. Booleans and Conditionals: Using booleans for branching logic
